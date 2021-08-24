@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: "https://ondemand-fav.vercel.app",
+  siteUrl: "https://hentai-nex.vercel.app",
   generateRobotsTxt: true,
   sitemapSize: 7000,
 };
