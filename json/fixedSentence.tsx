@@ -24,5 +24,5 @@ export const fiexdSentence = {
   hnext: "H-NEXT",
   hentai: "エロアニメ（HENTAI）",
   keywords: "見放題,AV,H-NEXT,U-NEXT,エロアニメ,HENTAI,お得,30日間無料,VOD",
-  url: "https://hentai-nex.vercel.app",
+  url: "https://hentai-nex-nu.vercel.app",
 };
