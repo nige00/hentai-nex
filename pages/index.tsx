@@ -8,6 +8,8 @@ import { Datas } from "../json/Datas";
 import { fiexdSentence } from "../json/fixedSentence";
 
 const Home: NextPage = () => {
+  const ranking = Datas.slice(0, 100);
+
   return (
     <Layout
       title={`${fiexdSentence.date}H-NEXTでエロアニメが大量配信中｜人気作品をまとめました`}
@@ -33,7 +35,7 @@ const Home: NextPage = () => {
       <div className="my-16 text-lg">{`現在のエロアニメ作品数：${Datas.length}本`}</div>
       <h2 className="text-3xl">H-NEXTで見れるエロアニメランキングTOP100！</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 pt-6 w-11/12">
-        {Datas.map((content, index) => {
+        {ranking.map((content, index) => {
           return (
             <div key={content.forUrlNumber}>
               <div className="flex flex-col justify-center items-center">
