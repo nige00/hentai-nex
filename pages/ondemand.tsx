@@ -16,7 +16,7 @@ const Allpages: NextPage = () => {
       title={`${fiexdSentence.date}H-NEXTで見放題対象になっているエロアニメ作品一覧`}
       description={`存在する全てのページを表示`}
       keyword={fiexdSentence.keywords}
-      url={`${fiexdSentence.url}/posts`}
+      url={`${fiexdSentence.url}/ondemand`}
       type="article"
     >
       <h1 className="text-xl sm:text-2xl text-gray-600">{`${fiexdSentence.date}H-NEXTで見れる、見放題対象のエロアニメ作品【${ondemandDatas.length}件】`}</h1>
