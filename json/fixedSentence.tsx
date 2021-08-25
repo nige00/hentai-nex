@@ -19,7 +19,7 @@ export const fiexdSentence = {
     );
   })(),
   affiliateLink:
-    "https://lp.hnext.jp/browse/video/anime?utm_source=linka&utm_medium=a_n&utm_campaign=a_n_title_adult",
+    "https://link-a.net/gate.php?guid=on&mcode=64fqzhrp&acode=eknldfdurnpg&itemid=0",
   microCopy: "＼31日間無料 + 1200円分のポイントGET！／",
   hnext: "H-NEXT",
   hentai: "エロアニメ（HENTAI）",
