@@ -12,9 +12,9 @@ export const fiexdSentence = {
         </p>
         <p style={{ paddingBottom: "8px" }}>
           <span style={{ fontWeight: "bold" }}>マジで抜けます</span>
-          、これ見放題なのはヤバいです。
+          、ほんと一回見て欲しい。
         </p>
-        <p>ぜひ見ましょう、よかったらでいいので。</p>
+        <p>H-NEXTで見てみてください、よかったらでいいので。</p>
       </>
     );
   })(),
